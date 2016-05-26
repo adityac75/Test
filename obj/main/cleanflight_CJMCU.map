@@ -1,0 +1,1521 @@
+Archive member included because of file (symbol)
+
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_ashrdi3.o)
+                              C:\cygwin64\tmp\cc1As3Gq.ltrans5.ltrans.o (__aeabi_lasr)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_addsubsf3.o)
+                              C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o (__aeabi_fsub)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_muldivsf3.o)
+                              C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o (__aeabi_fmul)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_cmpsf2.o)
+                              C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o (__aeabi_fcmpeq)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixsfsi.o)
+                              C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o (__aeabi_f2iz)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixunssfsi.o)
+                              C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o (__aeabi_f2uiz)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_aeabi_ldivmod.o)
+                              C:\cygwin64\tmp\cc1As3Gq.ltrans2.ltrans.o (__aeabi_ldivmod)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_fixsfdi.o)
+                              C:\cygwin64\tmp\cc1As3Gq.ltrans5.ltrans.o (__aeabi_f2lz)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_fixunssfdi.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_fixsfdi.o) (__aeabi_f2ulz)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(bpabi.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_aeabi_ldivmod.o) (__gnu_ldivmod_helper)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_dvmd_tls.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_addsubdf3.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_fixunssfdi.o) (__aeabi_dsub)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_muldivdf3.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_fixunssfdi.o) (__aeabi_dmul)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixunsdfsi.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_fixunssfdi.o) (__aeabi_d2uiz)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_divdi3.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(bpabi.o) (__divdi3)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_udivdi3.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(bpabi.o) (__udivdi3)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memcpy-stub.o)
+                              C:\cygwin64\tmp\cc1As3Gq.ltrans7.ltrans.o (memcpy)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memset.o)
+                              C:\cygwin64\tmp\cc1As3Gq.ltrans1.ltrans.o (memset)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-strchr.o)
+                              C:\cygwin64\tmp\cc1As3Gq.ltrans7.ltrans.o (strchr)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-strlen.o)
+                              C:\cygwin64\tmp\cc1As3Gq.ltrans2.ltrans.o (strlen)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_lrint.o)
+                              C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o (lrintf)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_acos.o)
+                              C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o (acosf)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_atan2.o)
+                              C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o (atan2f)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_pow.o)
+                              C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o (powf)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_sqrt.o)
+                              C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o (sqrtf)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_acos.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_acos.o) (__ieee754_acosf)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_atan2.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_atan2.o) (__ieee754_atan2f)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_pow.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_pow.o) (__ieee754_powf)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_sqrt.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_sqrt.o) (__ieee754_sqrtf)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_lib_ver.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_acos.o) (__fdlib_version)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_matherr.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_acos.o) (matherr)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_nan.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_acos.o) (nan)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_rint.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_pow.o) (rint)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_atan.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_atan2.o) (atanf)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_fabs.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_acos.o) (fabsf)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_finite.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_pow.o) (finitef)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_fpclassify.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_acos.o) (__fpclassifyf)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_nan.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_pow.o) (nanf)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_scalbn.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_pow.o) (scalbnf)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_copysign.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_scalbn.o) (copysignf)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-errno.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_acos.o) (__errno)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-errno.o) (_impure_ptr)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_cmpdf2.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_pow.o) (__aeabi_dcmpeq)
+c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_truncdfsf2.o)
+                              c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_acos.o) (__aeabi_d2f)
+
+Allocating common symbols
+Common symbol       size              file
+
+timerChannelInfo    0xe               obj/main/CJMCU/drivers/timer.o (symbol from plugin)
+telemTemperature1   0x2               obj/main/CJMCU/mw.o (symbol from plugin)
+rcRaw               0x24              obj/main/CJMCU/rx/rx.o (symbol from plugin)
+Temp                0x4               obj/main/CJMCU/flight/altitudehold.o (symbol from plugin)
+debug               0x8               obj/main/CJMCU/debug.o (symbol from plugin)
+accalttemp          0x2               obj/main/CJMCU/flight/altitudehold.o (symbol from plugin)
+accSum              0xc               obj/main/CJMCU/flight/imu.o (symbol from plugin)
+timerInfo           0x4               obj/main/CJMCU/drivers/timer.o (symbol from plugin)
+initialThrottleHold_test
+                    0x2               obj/main/CJMCU/flight/altitudehold.o (symbol from plugin)
+accADC              0x6               obj/main/CJMCU/sensors/acceleration.o (symbol from plugin)
+debug_e11           0x2               obj/main/CJMCU/io/serial_msp.o (symbol from plugin)
+debug_e2            0x2               obj/main/CJMCU/io/serial_msp.o (symbol from plugin)
+AltHold             0x4               obj/main/CJMCU/flight/altitudehold.o (symbol from plugin)
+dynI8               0x3               obj/main/CJMCU/flight/pid.o (symbol from plugin)
+sectionTimes        0x20              obj/main/CJMCU/debug.o (symbol from plugin)
+cachedRccCsrValue   0x4               obj/main/CJMCU/drivers/system.o (symbol from plugin)
+debug_e1            0x2               obj/main/CJMCU/flight/altitudehold.o (symbol from plugin)
+EstG                0xc               obj/main/CJMCU/flight/imu.o (symbol from plugin)
+
+Discarded input sections
+
+ .text          0x00000000       0x14 obj/main/CJMCU/startup_stm32f10x_md_gcc.o
+ .data          0x00000000        0x0 obj/main/CJMCU/startup_stm32f10x_md_gcc.o
+ .bss           0x00000000        0x0 obj/main/CJMCU/startup_stm32f10x_md_gcc.o
+ .text          0x00000000        0x0 obj/main/CJMCU/drivers/adc.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+ .rodata.serialPortIdentifiers
+                0x00000000        0x2 C:\cygwin64\tmp\cc1As3Gq.ltrans1.ltrans.o
+ .data          0x00000000        0x0 C:\cygwin64\tmp\cc1As3Gq.ltrans2.ltrans.o
+ .data          0x00000000        0x0 C:\cygwin64\tmp\cc1As3Gq.ltrans3.ltrans.o
+ .data          0x00000000        0x0 C:\cygwin64\tmp\cc1As3Gq.ltrans4.ltrans.o
+ .text.unlikely
+                0x00000000       0x10 C:\cygwin64\tmp\cc1As3Gq.ltrans4.ltrans.o
+ .data          0x00000000        0x0 C:\cygwin64\tmp\cc1As3Gq.ltrans5.ltrans.o
+ .data          0x00000000        0x0 C:\cygwin64\tmp\cc1As3Gq.ltrans6.ltrans.o
+ .data          0x00000000        0x0 C:\cygwin64\tmp\cc1As3Gq.ltrans7.ltrans.o
+ .data          0x00000000        0x0 C:\cygwin64\tmp\cc1As3Gq.ltrans8.ltrans.o
+ .data          0x00000000        0x0 C:\cygwin64\tmp\cc1As3Gq.ltrans10.ltrans.o
+ .data          0x00000000        0x0 C:\cygwin64\tmp\cc1As3Gq.ltrans11.ltrans.o
+ .data          0x00000000        0x0 C:\cygwin64\tmp\cc1As3Gq.ltrans12.ltrans.o
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_ashrdi3.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_ashrdi3.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_muldivsf3.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_cmpsf2.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixsfsi.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixsfsi.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixunssfsi.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_aeabi_ldivmod.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_fixsfdi.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_fixsfdi.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_fixunssfdi.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_fixunssfdi.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(bpabi.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(bpabi.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_divdi3.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_divdi3.o)
+ .ARM.extab     0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_divdi3.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_udivdi3.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_udivdi3.o)
+ .ARM.extab     0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_udivdi3.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-strchr.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-strchr.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-strchr.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 obj/main/CJMCU/drivers/adc_stm32f10x.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/drivers/accgyro_mpu.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/drivers/accgyro_mpu6050.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/drivers/bus_i2c_stm32f10x.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/drivers/compass_hmc5883l.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/drivers/gpio_stm32f10x.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/drivers/light_led_stm32f10x.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/drivers/pwm_mapping.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/drivers/pwm_output.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/drivers/pwm_rx.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/drivers/serial_uart.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/drivers/serial_uart_stm32f10x.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/drivers/sound_beeper_stm32f10x.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/drivers/system_stm32f10x.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/drivers/timer.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/drivers/timer_stm32f10x.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/hardware_revision.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/drivers/barometer_ms5611.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/sensors/barometer.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/build_config.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/debug.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/version.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/config/config.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/config/runtime_config.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/common/maths.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/common/printf.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/common/typeconversion.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/common/encoding.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/main.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/mw.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/flight/altitudehold.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/flight/failsafe.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/flight/pid.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/flight/imu.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/flight/mixer.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/flight/lowpass.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/flight/filter.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/drivers/bus_i2c_soft.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/drivers/serial.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/drivers/sound_beeper.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/drivers/system.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/io/beeper.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/io/rc_controls.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/io/rc_curves.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/io/serial.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/io/serial_1wire.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/io/serial_cli.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/io/serial_msp.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/io/statusindicator.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/rx/rx.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/rx/pwm.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/rx/msp.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/rx/sbus.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/rx/sumd.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/rx/sumh.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/rx/spektrum.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/rx/xbus.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/sensors/acceleration.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/sensors/battery.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/sensors/boardalignment.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/sensors/compass.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/sensors/gyro.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/sensors/initialisation.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/core_cm3.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/system_stm32f10x.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/stm32f10x_gpio.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/stm32f10x_fsmc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/stm32f10x_exti.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/stm32f10x_bkp.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/stm32f10x_spi.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/stm32f10x_adc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/stm32f10x_iwdg.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/misc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/stm32f10x_wwdg.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/stm32f10x_tim.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/stm32f10x_usart.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/stm32f10x_flash.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/stm32f10x_rcc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/stm32f10x_sdio.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/stm32f10x_i2c.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/stm32f10x_pwr.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/stm32f10x_rtc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/stm32f10x_dac.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/stm32f10x_dbgmcu.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/main/CJMCU/stm32f10x_dma.o (symbol from plugin)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_lrint.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_lrint.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_lrint.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_acos.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_acos.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_acos.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_atan2.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_atan2.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_atan2.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_pow.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_pow.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_pow.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_sqrt.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_sqrt.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_sqrt.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_acos.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_acos.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_acos.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_atan2.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_atan2.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_atan2.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_pow.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_pow.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_pow.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_sqrt.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_sqrt.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_sqrt.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_lib_ver.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_lib_ver.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_lib_ver.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_matherr.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_matherr.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_matherr.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_nan.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_nan.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_nan.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_rint.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_rint.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_rint.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_atan.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_atan.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_atan.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_fabs.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_fabs.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_fabs.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_finite.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_finite.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_finite.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_fpclassify.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_fpclassify.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_fpclassify.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_nan.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_nan.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_nan.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_scalbn.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_scalbn.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_scalbn.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_copysign.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_copysign.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_copysign.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_truncdfsf2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x0000f800         xr
+RAM              0x20000000         0x00005000         xrw
+MEMORY_B1        0x60000000         0x00000000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD obj/main/CJMCU/startup_stm32f10x_md_gcc.o
+LOAD obj/main/CJMCU/drivers/adc.o
+LOAD C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+LOAD C:\cygwin64\tmp\cc1As3Gq.ltrans1.ltrans.o
+LOAD C:\cygwin64\tmp\cc1As3Gq.ltrans2.ltrans.o
+LOAD C:\cygwin64\tmp\cc1As3Gq.ltrans3.ltrans.o
+LOAD C:\cygwin64\tmp\cc1As3Gq.ltrans4.ltrans.o
+LOAD C:\cygwin64\tmp\cc1As3Gq.ltrans5.ltrans.o
+LOAD C:\cygwin64\tmp\cc1As3Gq.ltrans6.ltrans.o
+LOAD C:\cygwin64\tmp\cc1As3Gq.ltrans7.ltrans.o
+LOAD C:\cygwin64\tmp\cc1As3Gq.ltrans8.ltrans.o
+LOAD C:\cygwin64\tmp\cc1As3Gq.ltrans9.ltrans.o
+LOAD C:\cygwin64\tmp\cc1As3Gq.ltrans10.ltrans.o
+LOAD C:\cygwin64\tmp\cc1As3Gq.ltrans11.ltrans.o
+LOAD C:\cygwin64\tmp\cc1As3Gq.ltrans12.ltrans.o
+LOAD c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a
+LOAD c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a
+LOAD c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a
+LOAD c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a
+LOAD c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a
+LOAD obj/main/CJMCU/drivers/adc_stm32f10x.o
+LOAD obj/main/CJMCU/drivers/accgyro_mpu.o
+LOAD obj/main/CJMCU/drivers/accgyro_mpu6050.o
+LOAD obj/main/CJMCU/drivers/bus_i2c_stm32f10x.o
+LOAD obj/main/CJMCU/drivers/compass_hmc5883l.o
+LOAD obj/main/CJMCU/drivers/gpio_stm32f10x.o
+LOAD obj/main/CJMCU/drivers/light_led_stm32f10x.o
+LOAD obj/main/CJMCU/drivers/pwm_mapping.o
+LOAD obj/main/CJMCU/drivers/pwm_output.o
+LOAD obj/main/CJMCU/drivers/pwm_rx.o
+LOAD obj/main/CJMCU/drivers/serial_uart.o
+LOAD obj/main/CJMCU/drivers/serial_uart_stm32f10x.o
+LOAD obj/main/CJMCU/drivers/sound_beeper_stm32f10x.o
+LOAD obj/main/CJMCU/drivers/system_stm32f10x.o
+LOAD obj/main/CJMCU/drivers/timer.o
+LOAD obj/main/CJMCU/drivers/timer_stm32f10x.o
+LOAD obj/main/CJMCU/hardware_revision.o
+LOAD obj/main/CJMCU/drivers/barometer_ms5611.o
+LOAD obj/main/CJMCU/sensors/barometer.o
+LOAD obj/main/CJMCU/build_config.o
+LOAD obj/main/CJMCU/debug.o
+LOAD obj/main/CJMCU/version.o
+LOAD obj/main/CJMCU/config/config.o
+LOAD obj/main/CJMCU/config/runtime_config.o
+LOAD obj/main/CJMCU/common/maths.o
+LOAD obj/main/CJMCU/common/printf.o
+LOAD obj/main/CJMCU/common/typeconversion.o
+LOAD obj/main/CJMCU/common/encoding.o
+LOAD obj/main/CJMCU/main.o
+LOAD obj/main/CJMCU/mw.o
+LOAD obj/main/CJMCU/flight/altitudehold.o
+LOAD obj/main/CJMCU/flight/failsafe.o
+LOAD obj/main/CJMCU/flight/pid.o
+LOAD obj/main/CJMCU/flight/imu.o
+LOAD obj/main/CJMCU/flight/mixer.o
+LOAD obj/main/CJMCU/flight/lowpass.o
+LOAD obj/main/CJMCU/flight/filter.o
+LOAD obj/main/CJMCU/drivers/bus_i2c_soft.o
+LOAD obj/main/CJMCU/drivers/serial.o
+LOAD obj/main/CJMCU/drivers/sound_beeper.o
+LOAD obj/main/CJMCU/drivers/system.o
+LOAD obj/main/CJMCU/io/beeper.o
+LOAD obj/main/CJMCU/io/rc_controls.o
+LOAD obj/main/CJMCU/io/rc_curves.o
+LOAD obj/main/CJMCU/io/serial.o
+LOAD obj/main/CJMCU/io/serial_1wire.o
+LOAD obj/main/CJMCU/io/serial_cli.o
+LOAD obj/main/CJMCU/io/serial_msp.o
+LOAD obj/main/CJMCU/io/statusindicator.o
+LOAD obj/main/CJMCU/rx/rx.o
+LOAD obj/main/CJMCU/rx/pwm.o
+LOAD obj/main/CJMCU/rx/msp.o
+LOAD obj/main/CJMCU/rx/sbus.o
+LOAD obj/main/CJMCU/rx/sumd.o
+LOAD obj/main/CJMCU/rx/sumh.o
+LOAD obj/main/CJMCU/rx/spektrum.o
+LOAD obj/main/CJMCU/rx/xbus.o
+LOAD obj/main/CJMCU/sensors/acceleration.o
+LOAD obj/main/CJMCU/sensors/battery.o
+LOAD obj/main/CJMCU/sensors/boardalignment.o
+LOAD obj/main/CJMCU/sensors/compass.o
+LOAD obj/main/CJMCU/sensors/gyro.o
+LOAD obj/main/CJMCU/sensors/initialisation.o
+LOAD obj/main/CJMCU/core_cm3.o
+LOAD obj/main/CJMCU/system_stm32f10x.o
+LOAD obj/main/CJMCU/stm32f10x_gpio.o
+LOAD obj/main/CJMCU/stm32f10x_fsmc.o
+LOAD obj/main/CJMCU/stm32f10x_exti.o
+LOAD obj/main/CJMCU/stm32f10x_bkp.o
+LOAD obj/main/CJMCU/stm32f10x_spi.o
+LOAD obj/main/CJMCU/stm32f10x_adc.o
+LOAD obj/main/CJMCU/stm32f10x_iwdg.o
+LOAD obj/main/CJMCU/misc.o
+LOAD obj/main/CJMCU/stm32f10x_wwdg.o
+LOAD obj/main/CJMCU/stm32f10x_tim.o
+LOAD obj/main/CJMCU/stm32f10x_usart.o
+LOAD obj/main/CJMCU/stm32f10x_flash.o
+LOAD obj/main/CJMCU/stm32f10x_rcc.o
+LOAD obj/main/CJMCU/stm32f10x_sdio.o
+LOAD obj/main/CJMCU/stm32f10x_i2c.o
+LOAD obj/main/CJMCU/stm32f10x_pwr.o
+LOAD obj/main/CJMCU/stm32f10x_rtc.o
+LOAD obj/main/CJMCU/stm32f10x_dac.o
+LOAD obj/main/CJMCU/stm32f10x_dbgmcu.o
+LOAD obj/main/CJMCU/stm32f10x_dma.o
+LOAD c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a
+LOAD c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a
+LOAD c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libnosys.a
+START GROUP
+LOAD c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a
+LOAD c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a
+LOAD c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a
+END GROUP
+START GROUP
+LOAD c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a
+LOAD c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a
+END GROUP
+                0x20005000                _estack = (ORIGIN (RAM) + 0x5000)
+                0x00000000                _Min_Heap_Size = 0x0
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x10c
+                0x08000000                . = ALIGN (0x4)
+                0x08000000                PROVIDE (isr_vector_table_base, .)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c obj/main/CJMCU/startup_stm32f10x_md_gcc.o
+                0x08000000                g_pfnVectors
+                0x0800010c                . = ALIGN (0x4)
+
+.text           0x08000110     0xda8c
+                0x08000110                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000110     0x1524 C:\cygwin64\tmp\cc1As3Gq.ltrans1.ltrans.o
+                0x08000110                init
+ .text          0x08001634     0x199c C:\cygwin64\tmp\cc1As3Gq.ltrans2.ltrans.o
+                0x08001634                annexCode
+ .text          0x08002fd0     0x10b4 C:\cygwin64\tmp\cc1As3Gq.ltrans3.ltrans.o
+                0x08002fd0                processRx
+ .text          0x08004084     0x1308 C:\cygwin64\tmp\cc1As3Gq.ltrans4.ltrans.o
+                0x08004148                xBusReadRawRC.10654
+                0x08004160                spektrumReadRawRC.10509
+                0x08004188                sumhReadRawRC.10393
+                0x0800419c                sumdReadRawRC.10285
+                0x080041ac                sbusReadRawRC.10153
+                0x080041d8                rxMspReadRawRC.10090
+                0x080041e4                pwmReadRawRC.10067
+                0x080041f0                ppmReadRawRC.10055
+                0x080041fc                nullReadRawRC.9842
+                0x08004200                ms5611_calculate.5895
+                0x080043a8                uartRead
+                0x080043d8                uartTotalRxBytesWaiting
+                0x080043fa                isUartTransmitBufferEmpty
+                0x08004410                uartTotalTxBytesFree
+                0x08004438                ppmEdgeCallback.5035
+                0x08004514                pwmOverflowCallback.5023
+                0x0800453c                ppmOverflowCallback.5031
+                0x0800454c                pwmWriteStandard.4766
+                0x0800455c                pwmWriteBrushed.4762
+                0x08004580                mpuGyroRead
+                0x080045c8                mpuAccRead
+                0x08004610                RCC_GetClocksFreq
+                0x080046a4                FLASH_WaitForLastOperation
+                0x080046c6                pwmICConfig
+                0x080048c0                pwmEdgeCallback.5027
+                0x08004918                alignSensors
+                0x08004a60                batteryAdcToVoltage
+                0x08004a8c                beeperSilence
+                0x08004ab8                beeper
+                0x08004afc                mwDisarm
+                0x08004b14                beeperConfirmationBeeps
+                0x08004b4c                enableFlightMode
+                0x08004b6c                disableFlightMode
+                0x08004b8c                serialize8.9579
+                0x08004bb0                headSerialResponse.9591
+                0x08004bec                headSerialReply.9595
+                0x08004bf2                serialize16.9585
+                0x08004c04                serialize32.9588
+                0x08004c16                read8.9554
+                0x08004c2c                read16.9556
+                0x08004c40                findNextSerialPortConfig
+                0x08004c80                findSerialPortConfig
+                0x08004c90                generateThrottleCurve
+                0x08004d18                generatePitchRollCurve
+                0x08004d4c                activateControlRateConfig
+                0x08004d90                micros
+                0x08004dc8                xBusDataReceive.10647
+                0x08004e94                spektrumDataReceive.10503
+                0x08004ee0                sumhDataReceive.10390
+                0x08004f2c                sumdDataReceive.10279
+                0x08004fdc                sbusDataReceive.10150
+                0x08005030                delayMicroseconds
+                0x08005046                delay
+                0x0800505a                extiHandler.8574
+                0x08005074                filterApplyPt1
+                0x080050e0                pidSetController
+                0x08005128                pidResetErrorAngle
+                0x08005144                applyDeadband
+                0x08005162                sin_approx
+                0x08005248                featureClear
+                0x08005258                timCCxHandler.5581
+                0x080052de                lookupTimerIndex.5571
+                0x08005318                gpioInit
+ .text          0x0800538c      0xa34 C:\cygwin64\tmp\cc1As3Gq.ltrans5.ltrans.o
+                0x0800538c                i2c_ev_handler.4335
+                0x08005638                updateBatteryVoltage.10883
+                0x08005854                uartStartTxDMA
+                0x08005886                NVIC_Init.part.0.12315.constprop.92
+                0x080058c4                configTimeBase
+                0x0800596c                pwmOutConfig.4833
+                0x08005c08                resetSerialConfig.constprop.58
+                0x08005c3c                isModeActivationConditionPresent.constprop.51
+                0x08005c5a                suspendRxSignal
+                0x08005c8c                headSerialError.9598.constprop.10
+                0x08005c94                DMA_Init
+                0x08005cd0                DMA_DeInit
+ .text          0x08005dc0      0xe84 C:\cygwin64\tmp\cc1As3Gq.ltrans6.ltrans.o
+                0x08005dc0                pidMultiWiiHybrid.8007
+                0x080060cc                pidMultiWii23.8014
+                0x08006384                pidHarakiri.8021
+                0x08006974                isRangeActive.part.0.8814
+                0x080069bc                failsafeActivate.7816
+                0x080069f8                resumeRxSignal
+                0x08006a28                mwArm
+                0x08006a94                uartReconfigure.5191
+                0x08006b94                uartSetMode
+                0x08006b98                uartSetBaudRate
+                0x08006b9c                timerChConfigCallbacks
+ .text          0x08006c44      0xe34 C:\cygwin64\tmp\cc1As3Gq.ltrans7.ltrans.o
+                0x08006c44                _putc.6614
+                0x08006c58                pidLuxFloat.8028
+                0x08006fa4                pidRewrite.8035
+                0x080071f8                readEEPROM
+                0x08007520                saveConfigAndNotify
+                0x08007534                resetConf.6385
+                0x08007930                usartIrqCallback
+                0x08007996                imuCalculateHeading
+ .text          0x08007a78      0x95c C:\cygwin64\tmp\cc1As3Gq.ltrans8.ltrans.o
+                0x08007a78                uartWrite
+                0x08007af4                mpu6050AccInit.4260
+                0x08007b20                mpu6050GyroInit.4262
+                0x08007bb0                pidMultiWii.7935
+                0x08007e3c                timerConfigure.constprop.72
+                0x08007e94                buildRotationMatrix
+                0x08007f94                rotateV
+                0x0800803a                isEEPROMContentValid.6321
+                0x08008080                failureMode
+                0x08008110                writeEEPROM
+                0x08008258                getRxfailValue.9874
+                0x080082ac                calculateThrottleStatus
+                0x080082e8                writeMotors
+                0x08008388                stopMotors
+ .text          0x080083d4      0x54c C:\cygwin64\tmp\cc1As3Gq.ltrans9.ltrans.o
+                0x0800866c                ms5611_start_up.5908
+                0x08008676                ms5611_start_ut.5910
+                0x08008680                mpuWriteRegisterI2C.4176
+                0x0800868c                hmc5883lInit
+                0x0800882c                openSerialPort
+                0x08008888                spektrumInit.constprop.32
+ .text          0x08008920      0x464 C:\cygwin64\tmp\cc1As3Gq.ltrans10.ltrans.o
+                0x08008920                i2cInit
+                0x08008b2c                i2cWrite
+                0x08008bac                i2cRead
+                0x08008c50                ms5611_get_ut.5903
+                0x08008c60                ms5611_get_up.5901
+                0x08008c70                hmc5883lRead
+                0x08008ce8                mpuReadRegisterI2C.4180
+                0x08008cfc                i2c_er_handler.4346
+ .text          0x08008d84       0xb4 C:\cygwin64\tmp\cc1As3Gq.ltrans11.ltrans.o
+                0x08008d84                TIM4_IRQHandler
+                0x08008d94                TIM3_IRQHandler
+                0x08008da4                TIM2_IRQHandler
+                0x08008db4                TIM1_UP_IRQHandler
+                0x08008dc4                TIM1_CC_IRQHandler
+                0x08008dd4                USART2_IRQHandler
+                0x08008de0                USART1_IRQHandler
+                0x08008dec                DMA1_Channel4_IRQHandler
+                0x08008e28                I2C2_ER_IRQHandler
+                0x08008e2c                I2C1_ER_IRQHandler
+                0x08008e30                I2C2_EV_IRQHandler
+                0x08008e34                I2C1_EV_IRQHandler
+ .text          0x08008e38       0x84 C:\cygwin64\tmp\cc1As3Gq.ltrans12.ltrans.o
+                0x08008e38                SystemInit
+                0x08008e84                SysTick_Handler
+                0x08008e94                EXTI3_IRQHandler
+                0x08008e9a                EXTI15_10_IRQHandler
+                0x08008ea0                HardFault_Handler
+ .text          0x08008ebc       0x1c c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_ashrdi3.o)
+                0x08008ebc                __aeabi_lasr
+                0x08008ebc                __ashrdi3
+ .text          0x08008ed8      0x21c c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_addsubsf3.o)
+                0x08008ed8                __aeabi_frsub
+                0x08008ee0                __subsf3
+                0x08008ee0                __aeabi_fsub
+                0x08008ee4                __aeabi_fadd
+                0x08008ee4                __addsf3
+                0x08009044                __aeabi_ui2f
+                0x08009044                __floatunsisf
+                0x0800904c                __aeabi_i2f
+                0x0800904c                __floatsisf
+                0x08009068                __aeabi_ul2f
+                0x08009068                __floatundisf
+                0x08009078                __aeabi_l2f
+                0x08009078                __floatdisf
+ .text          0x080090f4      0x2a0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_muldivsf3.o)
+                0x080090f4                __mulsf3
+                0x080090f4                __aeabi_fmul
+                0x0800925c                __aeabi_fdiv
+                0x0800925c                __divsf3
+ .text          0x08009394       0xec c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_cmpsf2.o)
+                0x08009394                __gesf2
+                0x08009394                __gtsf2
+                0x0800939c                __lesf2
+                0x0800939c                __ltsf2
+                0x080093a4                __nesf2
+                0x080093a4                __eqsf2
+                0x080093a4                __cmpsf2
+                0x08009404                __aeabi_cfrcmple
+                0x0800940c                __aeabi_cfcmpeq
+                0x0800940c                __aeabi_cfcmple
+                0x0800941c                __aeabi_fcmpeq
+                0x08009430                __aeabi_fcmplt
+                0x08009444                __aeabi_fcmple
+                0x08009458                __aeabi_fcmpge
+                0x0800946c                __aeabi_fcmpgt
+ .text          0x08009480       0x4c c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixsfsi.o)
+                0x08009480                __aeabi_f2iz
+                0x08009480                __fixsfsi
+ .text          0x080094cc       0x40 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixunssfsi.o)
+                0x080094cc                __fixunssfsi
+                0x080094cc                __aeabi_f2uiz
+ .text          0x0800950c       0x38 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_aeabi_ldivmod.o)
+                0x0800950c                __aeabi_ldivmod
+ .text          0x08009544       0x28 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_fixsfdi.o)
+                0x08009544                __fixsfdi
+                0x08009544                __aeabi_f2lz
+ .text          0x0800956c       0x48 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_fixunssfdi.o)
+                0x0800956c                __fixunssfdi
+                0x0800956c                __aeabi_f2ulz
+ .text          0x080095b4       0x60 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(bpabi.o)
+                0x080095b4                __gnu_ldivmod_helper
+                0x080095e4                __gnu_uldivmod_helper
+ .text          0x08009614        0x4 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_dvmd_tls.o)
+                0x08009614                __aeabi_idiv0
+                0x08009614                __aeabi_ldiv0
+ .text          0x08009618      0x370 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_addsubdf3.o)
+                0x08009618                __aeabi_drsub
+                0x08009620                __aeabi_dsub
+                0x08009620                __subdf3
+                0x08009624                __aeabi_dadd
+                0x08009624                __adddf3
+                0x0800989c                __floatunsidf
+                0x0800989c                __aeabi_ui2d
+                0x080098bc                __floatsidf
+                0x080098bc                __aeabi_i2d
+                0x080098e0                __aeabi_f2d
+                0x080098e0                __extendsfdf2
+                0x0800991c                __floatundidf
+                0x0800991c                __aeabi_ul2d
+                0x0800992c                __floatdidf
+                0x0800992c                __aeabi_l2d
+ .text          0x08009988      0x424 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_muldivdf3.o)
+                0x08009988                __aeabi_dmul
+                0x08009988                __muldf3
+                0x08009bdc                __divdf3
+                0x08009bdc                __aeabi_ddiv
+ .text          0x08009dac       0x40 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixunsdfsi.o)
+                0x08009dac                __aeabi_d2uiz
+                0x08009dac                __fixunsdfsi
+ .text          0x08009dec      0x2a0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_divdi3.o)
+                0x08009dec                __divdi3
+ .text          0x0800a08c      0x290 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_udivdi3.o)
+                0x0800a08c                __udivdi3
+ .text          0x0800a31c      0x110 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_cmpdf2.o)
+                0x0800a31c                __gtdf2
+                0x0800a31c                __gedf2
+                0x0800a324                __ltdf2
+                0x0800a324                __ledf2
+                0x0800a32c                __nedf2
+                0x0800a32c                __eqdf2
+                0x0800a32c                __cmpdf2
+                0x0800a3a8                __aeabi_cdrcmple
+                0x0800a3b8                __aeabi_cdcmpeq
+                0x0800a3b8                __aeabi_cdcmple
+                0x0800a3c8                __aeabi_dcmpeq
+                0x0800a3dc                __aeabi_dcmplt
+                0x0800a3f0                __aeabi_dcmple
+                0x0800a404                __aeabi_dcmpge
+                0x0800a418                __aeabi_dcmpgt
+ .text          0x0800a42c       0xa0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_truncdfsf2.o)
+                0x0800a42c                __truncdfsf2
+                0x0800a42c                __aeabi_d2f
+ *(.text*)
+ .text.Reset_Handler
+                0x0800a4cc       0xac obj/main/CJMCU/startup_stm32f10x_md_gcc.o
+                0x0800a4cc                Reset_Handler
+ .text.Default_Handler
+                0x0800a578        0x4 obj/main/CJMCU/startup_stm32f10x_md_gcc.o
+                0x0800a578                EXTI2_IRQHandler
+                0x0800a578                DebugMon_Handler
+                0x0800a578                PVD_IRQHandler
+                0x0800a578                PendSV_Handler
+                0x0800a578                NMI_Handler
+                0x0800a578                EXTI0_IRQHandler
+                0x0800a578                UsageFault_Handler
+                0x0800a578                ADC1_2_IRQHandler
+                0x0800a578                SPI1_IRQHandler
+                0x0800a578                TAMPER_IRQHandler
+                0x0800a578                USART3_IRQHandler
+                0x0800a578                RTC_IRQHandler
+                0x0800a578                DMA1_Channel7_IRQHandler
+                0x0800a578                CAN1_RX1_IRQHandler
+                0x0800a578                DMA1_Channel6_IRQHandler
+                0x0800a578                RCC_IRQHandler
+                0x0800a578                TIM1_TRG_COM_IRQHandler
+                0x0800a578                DMA1_Channel1_IRQHandler
+                0x0800a578                Default_Handler
+                0x0800a578                EXTI9_5_IRQHandler
+                0x0800a578                SPI2_IRQHandler
+                0x0800a578                MemManage_Handler
+                0x0800a578                SVC_Handler
+                0x0800a578                DMA1_Channel5_IRQHandler
+                0x0800a578                EXTI4_IRQHandler
+                0x0800a578                USB_LP_CAN1_RX0_IRQHandler
+                0x0800a578                USB_HP_CAN1_TX_IRQHandler
+                0x0800a578                DMA1_Channel3_IRQHandler
+                0x0800a578                WWDG_IRQHandler
+                0x0800a578                TIM1_BRK_IRQHandler
+                0x0800a578                EXTI1_IRQHandler
+                0x0800a578                RTCAlarm_IRQHandler
+                0x0800a578                DMA1_Channel2_IRQHandler
+                0x0800a578                CAN1_SCE_IRQHandler
+                0x0800a578                FLASH_IRQHandler
+                0x0800a578                BusFault_Handler
+                0x0800a578                USBWakeUp_IRQHandler
+ .text.startup  0x0800a57c     0x1ae4 C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+                0x0800a57c                main
+ .text.memcpy   0x0800c060       0x12 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memcpy-stub.o)
+                0x0800c060                memcpy
+ .text.memset   0x0800c072       0x10 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memset.o)
+                0x0800c072                memset
+ .text.strchr   0x0800c082       0x1a c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-strchr.o)
+                0x0800c082                strchr
+ .text.strlen   0x0800c09c       0x10 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-strlen.o)
+                0x0800c09c                strlen
+ .text.lrintf   0x0800c0ac       0x7c c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_lrint.o)
+                0x0800c0ac                lrintf
+ .text.acosf    0x0800c128       0xa0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_acos.o)
+                0x0800c128                acosf
+ .text.atan2f   0x0800c1c8        0x4 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_atan2.o)
+                0x0800c1c8                atan2f
+ .text.powf     0x0800c1cc      0x310 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_pow.o)
+                0x0800c1cc                powf
+ .text.sqrtf    0x0800c4dc       0x9c c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_sqrt.o)
+                0x0800c4dc                sqrtf
+ .text.__ieee754_acosf
+                0x0800c578      0x2d0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_acos.o)
+                0x0800c578                __ieee754_acosf
+ .text.__ieee754_atan2f
+                0x0800c848      0x120 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_atan2.o)
+                0x0800c848                __ieee754_atan2f
+ .text.__ieee754_powf
+                0x0800c968      0x6f8 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_pow.o)
+                0x0800c968                __ieee754_powf
+ .text.__ieee754_sqrtf
+                0x0800d060       0xa8 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_sqrt.o)
+                0x0800d060                __ieee754_sqrtf
+ .text.matherr  0x0800d108        0x4 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_matherr.o)
+                0x0800d108                matherr
+ .text.nan      0x0800d10c        0xc c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_nan.o)
+                0x0800d10c                nan
+ .text.rint     0x0800d118      0x118 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_rint.o)
+                0x0800d118                rint
+ .text.atanf    0x0800d230      0x22c c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_atan.o)
+                0x0800d230                atanf
+ .text.fabsf    0x0800d45c        0x8 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_fabs.o)
+                0x0800d45c                fabsf
+ .text.finitef  0x0800d464       0x10 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_finite.o)
+                0x0800d464                finitef
+ .text.__fpclassifyf
+                0x0800d474       0x34 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_fpclassify.o)
+                0x0800d474                __fpclassifyf
+ .text.nanf     0x0800d4a8        0x8 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_nan.o)
+                0x0800d4a8                nanf
+ .text.scalbnf  0x0800d4b0       0xb4 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_scalbn.o)
+                0x0800d4b0                scalbnf
+ .text.copysignf
+                0x0800d564        0xc c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_copysign.o)
+                0x0800d564                copysignf
+ .text.__errno  0x0800d570        0xc c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-errno.o)
+                0x0800d570                __errno
+ *(.rodata)
+ .rodata        0x0800d57c       0xc4 C:\cygwin64\tmp\cc1As3Gq.ltrans1.ltrans.o
+ .rodata        0x0800d640      0x180 C:\cygwin64\tmp\cc1As3Gq.ltrans2.ltrans.o
+ .rodata        0x0800d7c0       0x3c C:\cygwin64\tmp\cc1As3Gq.ltrans3.ltrans.o
+ .rodata        0x0800d7fc       0xf0 C:\cygwin64\tmp\cc1As3Gq.ltrans4.ltrans.o
+ .rodata        0x0800d8ec       0x1c C:\cygwin64\tmp\cc1As3Gq.ltrans9.ltrans.o
+ .rodata        0x0800d908       0x28 C:\cygwin64\tmp\cc1As3Gq.ltrans10.ltrans.o
+ *(.rodata*)
+ .rodata.timerHardware
+                0x0800d930       0xe0 C:\cygwin64\tmp\cc1As3Gq.ltrans1.ltrans.o
+ .rodata.str1.1
+                0x0800da10       0xff C:\cygwin64\tmp\cc1As3Gq.ltrans2.ltrans.o
+ .rodata.str1.1
+                0x0800db0f        0x9 C:\cygwin64\tmp\cc1As3Gq.ltrans7.ltrans.o
+ .rodata.rcChannelLetters
+                0x0800db18       0x15 C:\cygwin64\tmp\cc1As3Gq.ltrans7.ltrans.o
+ *fill*         0x0800db2d        0x3 
+ .rodata.TWO23  0x0800db30        0x8 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_lrint.o)
+ .rodata.str1.4
+                0x0800db38        0x6 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_acos.o)
+                                  0xc (size before relaxing)
+ *fill*         0x0800db3e        0x2 
+ .rodata.str1.4
+                0x0800db40        0x5 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_pow.o)
+                                  0x8 (size before relaxing)
+ *fill*         0x0800db45        0x3 
+ .rodata.str1.4
+                0x0800db48        0x8 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_sqrt.o)
+ .rodata.dp_h   0x0800db50        0x8 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_pow.o)
+ .rodata.dp_l   0x0800db58        0x8 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_pow.o)
+ .rodata.bp     0x0800db60        0x8 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_pow.o)
+ .rodata.str1.4
+                0x00000000        0x4 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_pow.o)
+ .rodata.TWO52  0x0800db68       0x10 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_rint.o)
+ .rodata.atanlo
+                0x0800db78       0x10 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_atan.o)
+ .rodata.atanhi
+                0x0800db88       0x10 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_atan.o)
+ .rodata.str1.1
+                0x0800db98        0x2 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.eh_frame)
+ *(.init)
+ *(.fini)
+                0x0800db9c                . = ALIGN (0x4)
+ *fill*         0x0800db9a        0x2 
+                0x0800db9c                _etext = .
+
+.vfp11_veneer   0x0800db9c        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x0800db9c        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x0800db9c        0x0
+ .iplt          0x00000000        0x0 obj/main/CJMCU/startup_stm32f10x_md_gcc.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x0800db9c        0x8
+                0x0800db9c                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x0800db9c        0x8 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_divdi3.o)
+ .ARM.exidx     0x0800dba4        0x0 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_udivdi3.o)
+                                  0x8 (size before relaxing)
+                0x0800dba4                __exidx_end = .
+
+.rel.dyn        0x0800dba4        0x0
+ .rel.iplt      0x00000000        0x0 obj/main/CJMCU/startup_stm32f10x_md_gcc.o
+
+.preinit_array  0x0800dba4        0x0
+                0x0800dba4                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x0800dba4                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x0800dba4        0x0
+                0x0800dba4                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+                0x0800dba4                PROVIDE (__init_array_end, .)
+
+.fini_array     0x0800dba4        0x0
+                0x0800dba4                PROVIDE (__fini_array_start, .)
+ *(.fini_array*)
+ *(SORT(.fini_array.*))
+                0x0800dba4                PROVIDE (__fini_array_end, .)
+                0x0800dba4                _sidata = .
+
+.data           0x20000000       0xac load address 0x0800dba4
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000       0x1c C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+                0x20000000                rxIsInFailsafeMode.10016
+                0x20000001                rxIsInFailsafeModeNotDataDriven.10015
+                0x2000000a                acc_1G
+                0x20000018                isUsingSticksToArm.8997
+ .data          0x2000001c        0xc C:\cygwin64\tmp\cc1As3Gq.ltrans1.ltrans.o
+                0x2000001c                hse_value
+                0x20000020                standardBoardAlignment.11027
+                0x20000024                rcReadRawFunc.10000
+ .data          0x20000028        0xc C:\cygwin64\tmp\cc1As3Gq.ltrans9.ltrans.o
+                0x20000028                magGain.4545
+ *(.data*)
+ .data.pid_controller
+                0x20000034        0x4 C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+                0x20000034                pid_controller
+ .data.detectedSensors
+                0x20000038        0x4 C:\cygwin64\tmp\cc1As3Gq.ltrans1.ltrans.o
+ .data.batteryCellCount
+                0x2000003c        0x1 C:\cygwin64\tmp\cc1As3Gq.ltrans1.ltrans.o
+                0x2000003c                batteryCellCount
+ *fill*         0x2000003d        0x3 
+ .data.SystemCoreClock
+                0x20000040        0x4 C:\cygwin64\tmp\cc1As3Gq.ltrans1.ltrans.o
+                0x20000040                SystemCoreClock
+ .data.__fdlib_version
+                0x20000044        0x1 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_lib_ver.o)
+                0x20000044                __fdlib_version
+ *fill*         0x20000045        0x3 
+ .data.impure_data
+                0x20000048       0x60 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x200000a8        0x4 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+                0x200000a8                _impure_ptr
+                0x200000ac                . = ALIGN (0x4)
+                0x200000ac                _edata = .
+
+.igot.plt       0x200000ac        0x0 load address 0x0800dc50
+ .igot.plt      0x00000000        0x0 obj/main/CJMCU/startup_stm32f10x_md_gcc.o
+                0x200000ac                . = ALIGN (0x4)
+
+.bss            0x200000b0     0x1834 load address 0x0800dc50
+                0x200000b0                _sbss = .
+                0x200000b0                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x200000b0      0xae0 C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+                0x200000b0                rxSignalReceived.10004
+                0x200000b8                rxSignalReceivedNotDataDriven.10006
+                0x200000bc                activeFeaturesLatch.6452
+                0x200000c4                rxConfig.10002
+                0x200000c8                rcFrameComplete.10612
+                0x200000c9                spek_chan_shift.10615
+                0x200000cc                rxRuntimeConfigPtr.10616
+                0x200000d0                spek_chan_mask.10617
+                0x200000d1                spekFrame.10611
+                0x200000e4                spekChannelData.10614
+                0x20000114                sbusFrameDone.10258
+                0x20000118                sbusChannelData.10229
+                0x20000160                sbusFrame.10232
+                0x20000179                sumdFrameDone.10365
+                0x2000017a                sumdChannelCount.10366
+                0x2000017c                crc.10361
+                0x2000017e                sumd.10367
+                0x200001a4                sumdChannels.10362
+                0x200001c4                sumhFrameDone.10474
+                0x200001c5                sumhFrame.10473
+                0x200001dc                sumhChannels.10469
+                0x200001fc                xBusFrameReceived.10747
+                0x200001fd                rxMspFrameDone.10131
+                0x200001fe                ppmFrameCount.5118
+                0x20000200                captures.5117
+                0x20000218                inclination
+                0x2000021c                accSmooth
+                0x20000222                flightModeFlags
+                0x20000224                rxUpdateAt.10028
+                0x2000022a                rcData
+                0x20000250                rcModeActivationMask
+                0x20000258                enabledSensors.6491
+                0x20000260                EstAlt.7777
+                0x20000274                rcCommand
+                0x20000284                mag
+                0x2000028c                magADC
+                0x20000292                stateFlags
+                0x20000298                masterConfig
+                0x200007b8                magInit.11061
+                0x200007c4                baro
+                0x200007ec                barometerConfig.5995
+                0x200008f0                accVelScale
+                0x200008f8                barometerConfig.7785
+                0x20000900                vario
+                0x20000908                pidProfile.7784
+                0x20000914                currentProfile
+                0x20000918                gyro
+                0x20000928                gyroADC
+                0x2000092e                gyroAlign
+                0x20000930                gyroConfig.11156
+                0x20000984                acc
+                0x20000996                calibratingA
+                0x20000998                accelerationTrims.10828
+                0x200009a8                InflightcalibratingA
+                0x200009c0                AccInflightCalibrationActive
+                0x200009c1                AccInflightCalibrationMeasurementDone
+                0x200009c2                AccInflightCalibrationSavetoEEProm
+                0x200009c8                gyroScaleRad
+                0x200009cc                imuRuntimeConfig.8235
+                0x200009e8                smallAngle
+                0x200009ec                anglerad
+                0x20000a00                heading
+                0x20000a0c                fc_acc
+                0x20000a10                accDeadband.8237
+                0x20000a14                cycleTime
+                0x20000a18                previousTime
+                0x20000a28                rxRefreshRate.10024
+                0x20000a44                magHold
+                0x20000a48                rcControlsConfig.7771
+                0x20000a50                escAndServoConfig.7779
+                0x20000a54                throttleAngleScale
+                0x20000a58                currentControlRateProfile
+                0x20000a5c                motorCount
+                0x20000a60                mixerConfig.8387
+                0x20000a64                axisPID
+                0x20000a6c                currentMixer.8393
+                0x20000b2c                motor
+                0x20000b44                failsafeState.7899
+                0x20000b68                escAndServoConfig.8386
+                0x20000b6c                rxConfig.8389
+                0x20000b70                flight3DConfig.8385
+                0x20000b74                motorControlEnable
+                0x20000b76                motor_disarmed
+ .bss           0x20000b90      0x338 C:\cygwin64\tmp\cc1As3Gq.ltrans1.ltrans.o
+                0x20000b9c                usTicks.8638
+                0x20000ba0                extiHandlerConfigs.8637
+                0x20000bbc                serialConfig.9231
+                0x20000bc0                serialPortCount.9232
+                0x20000bc4                serialPortUsageList.9229
+                0x20000be4                inputFilteringMode.5121
+                0x20000be8                ppmDev
+                0x20000d10                motors.4915
+                0x20000d40                adcConfig
+                0x20000d50                adcValues
+                0x20000d58                boardRotation.11025
+                0x20000d7c                mpuDetectionResult
+                0x20000d80                mpuConfiguration
+                0x20000d8c                mpuIntExtiConfig.4253
+                0x20000d90                ms5611_c.5936
+                0x20000da0                hmc5883Config.4546
+                0x20000da4                magneticDeclination
+                0x20000da8                activeBoxIds.9680
+                0x20000dc3                activeBoxIdCount.9684
+                0x20000dc4                mspPorts.9679
+                0x20000e5c                rxConfig.7918
+                0x20000e60                deadband3dThrottle.7922
+                0x20000e62                rcSampleIndex.10007
+                0x20000e64                rcInvalidPulsPeriod
+                0x20000eac                rxRuntimeConfig
+                0x20000eb4                xBusDataIncoming.10748
+                0x20000eb5                xBusFramePosition.10749
+                0x20000eb6                xBusFrameLength.10750
+                0x20000eb7                xBusChannelCount.10746
+                0x20000eb8                xBusProvider.10751
+                0x20000ebc                batteryConfig
+                0x20000ec0                batteryState.10961
+                0x20000ec2                batteryWarningVoltage
+                0x20000ec4                batteryCriticalVoltage
+ .bss           0x20000ec8       0xc0 C:\cygwin64\tmp\cc1As3Gq.ltrans2.ltrans.o
+                0x20000ec8                lookupPitchRollRC
+                0x20000ed6                lookupYawRC
+                0x20000ee4                dynP8
+                0x20000eea                dynD8
+                0x20000eed                PIDweight
+                0x20000ef0                lookupThrottleRC
+                0x20000f08                headFreeModeHold
+                0x20000f10                vbat
+                0x20000f12                vbatLatestADC
+                0x20000f34                currentBeeperEntry.8756
+                0x20000f38                beeperNextToggleTime.8752
+                0x20000f3c                beeperIsOn.8751
+                0x20000f3e                beeperPos.8753
+                0x20000f40                warningLedState.9825
+                0x20000f48                currentPort.9681
+                0x20000f4c                mspSerialPort.9683
+                0x20000f50                barometerConfig_tmp
+                0x20000f54                rssi
+                0x20000f56                mspFrame.10130
+                0x20000f7c                escAndServoConfig.9006
+                0x20000f80                pidProfile.9007
+ .bss           0x20000f88      0x104 C:\cygwin64\tmp\cc1As3Gq.ltrans3.ltrans.o
+                0x20000f88                skipRxSamples.10026
+                0x20000f8c                suspendRxSignalUntil.10025
+                0x20001034                failsafeConfig.7898
+                0x20001038                errorGyroI.8068
+                0x20001044                errorGyroIf.8086
+                0x20001050                disarmAt.7606
+                0x20001058                adjustmentStates
+                0x20001089                currentControlRateProfileIndex.6449
+ .bss           0x2000108c       0x88 C:\cygwin64\tmp\cc1As3Gq.ltrans4.ltrans.o
+ *fill*         0x20001114        0x4 
+ .bss           0x20001118      0x158 C:\cygwin64\tmp\cc1As3Gq.ltrans5.ltrans.o
+ .bss           0x20001270       0x40 C:\cygwin64\tmp\cc1As3Gq.ltrans6.ltrans.o
+                0x20001298                errorAngleIf.8085
+ .bss           0x200012b0       0x7c C:\cygwin64\tmp\cc1As3Gq.ltrans7.ltrans.o
+                0x200012b4                PTermState.8070
+                0x200012e4                DTermState.8074
+ .bss           0x2000132c       0x2c C:\cygwin64\tmp\cc1As3Gq.ltrans8.ltrans.o
+                0x20001330                errorAngleI.8066
+ .bss           0x20001358      0x401 C:\cygwin64\tmp\cc1As3Gq.ltrans9.ltrans.o
+                0x20001758                spekHiRes.10613
+ *fill*         0x20001759        0x3 
+ .bss           0x2000175c       0x20 C:\cygwin64\tmp\cc1As3Gq.ltrans10.ltrans.o
+                0x2000175c                I2Cx.4435
+                0x20001762                i2cErrorCount.4461
+                0x20001764                addr.4443
+                0x20001765                reg.4441
+                0x20001766                writing.4446
+                0x20001767                reading.4439
+                0x20001768                write_p.4447
+                0x2000176c                read_p.4445
+                0x20001770                bytes.4442
+                0x20001771                busy.4448
+                0x20001774                ms5611_ut.5937
+                0x20001778                ms5611_up.5938
+ .bss           0x2000177c      0x148 C:\cygwin64\tmp\cc1As3Gq.ltrans11.ltrans.o
+                0x2000177c                timerConfig
+                0x2000181c                uartPort2.5409
+                0x20001870                uartPort1.5408
+ .bss           0x200018c4        0x8 C:\cygwin64\tmp\cc1As3Gq.ltrans12.ltrans.o
+                0x200018c4                sysTickUptime.8639
+                0x200018c8                systemState.7131
+ *(SORT(.bss*))
+ .bss.currentTime
+                0x200018cc        0x4 C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+                0x200018cc                currentTime
+ .bss.accTimeSum
+                0x200018d0        0x4 C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+ .bss.setVelocity
+                0x200018d4        0x4 C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+ .bss.calibratingB
+                0x200018d8        0x2 C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+                0x200018d8                calibratingB
+ .bss.calibratingG
+                0x200018da        0x2 C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+                0x200018da                calibratingG
+ .bss.accAlign  0x200018dc        0x1 C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+                0x200018dc                accAlign
+ .bss.magAlign  0x200018dd        0x1 C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+                0x200018dd                magAlign
+ .bss.armingFlags
+                0x200018de        0x1 C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+                0x200018de                armingFlags
+ .bss.hardwareRevision
+                0x200018df        0x1 C:\cygwin64\tmp\cc1As3Gq.ltrans1.ltrans.o
+ .bss.cliMode   0x200018e0        0x1 C:\cygwin64\tmp\cc1As3Gq.ltrans3.ltrans.o
+ *(COMMON)
+                0x200018e4                . = ALIGN (0x4)
+ *fill*         0x200018e1        0x3 
+                0x200018e4                _ebss = .
+                0x200018e4                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x200018e4      0x400 load address 0x0800dc50
+                0x200018e4                . = ALIGN (0x4)
+                0x200018e4                PROVIDE (end, .)
+                0x200018e4                PROVIDE (_end, .)
+                0x200018e4                . = (. + _Min_Heap_Size)
+                0x20001ce4                . = (. + _Min_Stack_Size)
+ *fill*         0x200018e4      0x400 
+                0x20001ce4                . = ALIGN (0x4)
+
+.memory_b1_text
+ *(.mb1text)
+ *(.mb1text*)
+ *(.mb1rodata)
+ *(.mb1rodata*)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x2f
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x21 obj/main/CJMCU/startup_stm32f10x_md_gcc.o
+ .ARM.attributes
+                0x00000021       0x31 C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+ .ARM.attributes
+                0x00000052       0x31 C:\cygwin64\tmp\cc1As3Gq.ltrans1.ltrans.o
+ .ARM.attributes
+                0x00000083       0x31 C:\cygwin64\tmp\cc1As3Gq.ltrans2.ltrans.o
+ .ARM.attributes
+                0x000000b4       0x31 C:\cygwin64\tmp\cc1As3Gq.ltrans3.ltrans.o
+ .ARM.attributes
+                0x000000e5       0x31 C:\cygwin64\tmp\cc1As3Gq.ltrans4.ltrans.o
+ .ARM.attributes
+                0x00000116       0x31 C:\cygwin64\tmp\cc1As3Gq.ltrans5.ltrans.o
+ .ARM.attributes
+                0x00000147       0x31 C:\cygwin64\tmp\cc1As3Gq.ltrans6.ltrans.o
+ .ARM.attributes
+                0x00000178       0x31 C:\cygwin64\tmp\cc1As3Gq.ltrans7.ltrans.o
+ .ARM.attributes
+                0x000001a9       0x31 C:\cygwin64\tmp\cc1As3Gq.ltrans8.ltrans.o
+ .ARM.attributes
+                0x000001da       0x31 C:\cygwin64\tmp\cc1As3Gq.ltrans9.ltrans.o
+ .ARM.attributes
+                0x0000020b       0x31 C:\cygwin64\tmp\cc1As3Gq.ltrans10.ltrans.o
+ .ARM.attributes
+                0x0000023c       0x31 C:\cygwin64\tmp\cc1As3Gq.ltrans11.ltrans.o
+ .ARM.attributes
+                0x0000026d       0x31 C:\cygwin64\tmp\cc1As3Gq.ltrans12.ltrans.o
+ .ARM.attributes
+                0x0000029e       0x1d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_ashrdi3.o)
+ .ARM.attributes
+                0x000002bb       0x1d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x000002d8       0x1d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x000002f5       0x1d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x00000312       0x1d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixsfsi.o)
+ .ARM.attributes
+                0x0000032f       0x1d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixunssfsi.o)
+ .ARM.attributes
+                0x0000034c       0x1d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x00000369       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_fixsfdi.o)
+ .ARM.attributes
+                0x00000396       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_fixunssfdi.o)
+ .ARM.attributes
+                0x000003c3       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x000003f0       0x1d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000040d       0x1d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000042a       0x1d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000447       0x1d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x00000464       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x00000491       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x000004be       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000004eb       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000518       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-strchr.o)
+ .ARM.attributes
+                0x00000545       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000572       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_lrint.o)
+ .ARM.attributes
+                0x0000059f       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_acos.o)
+ .ARM.attributes
+                0x000005cc       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_atan2.o)
+ .ARM.attributes
+                0x000005f9       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_pow.o)
+ .ARM.attributes
+                0x00000626       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_sqrt.o)
+ .ARM.attributes
+                0x00000653       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_acos.o)
+ .ARM.attributes
+                0x00000680       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_atan2.o)
+ .ARM.attributes
+                0x000006ad       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_pow.o)
+ .ARM.attributes
+                0x000006da       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_sqrt.o)
+ .ARM.attributes
+                0x00000707       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_lib_ver.o)
+ .ARM.attributes
+                0x00000734       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_matherr.o)
+ .ARM.attributes
+                0x00000761       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_nan.o)
+ .ARM.attributes
+                0x0000078e       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_rint.o)
+ .ARM.attributes
+                0x000007bb       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_atan.o)
+ .ARM.attributes
+                0x000007e8       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_fabs.o)
+ .ARM.attributes
+                0x00000815       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_finite.o)
+ .ARM.attributes
+                0x00000842       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_fpclassify.o)
+ .ARM.attributes
+                0x0000086f       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_nan.o)
+ .ARM.attributes
+                0x0000089c       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_scalbn.o)
+ .ARM.attributes
+                0x000008c9       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_copysign.o)
+ .ARM.attributes
+                0x000008f6       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000923       0x2d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000950       0x1d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x0000096d       0x1d c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_truncdfsf2.o)
+OUTPUT(obj/main/cleanflight_CJMCU.elf elf32-littlearm)
+
+.debug_info     0x00000000    0x1f64b
+ .debug_info    0x00000000     0x4782 C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+ .debug_info    0x00004782     0x5939 C:\cygwin64\tmp\cc1As3Gq.ltrans1.ltrans.o
+ .debug_info    0x0000a0bb     0x303c C:\cygwin64\tmp\cc1As3Gq.ltrans2.ltrans.o
+ .debug_info    0x0000d0f7     0x221d C:\cygwin64\tmp\cc1As3Gq.ltrans3.ltrans.o
+ .debug_info    0x0000f314     0x3362 C:\cygwin64\tmp\cc1As3Gq.ltrans4.ltrans.o
+ .debug_info    0x00012676     0x1fe7 C:\cygwin64\tmp\cc1As3Gq.ltrans5.ltrans.o
+ .debug_info    0x0001465d     0x1f43 C:\cygwin64\tmp\cc1As3Gq.ltrans6.ltrans.o
+ .debug_info    0x000165a0     0x2779 C:\cygwin64\tmp\cc1As3Gq.ltrans7.ltrans.o
+ .debug_info    0x00018d19     0x2edd C:\cygwin64\tmp\cc1As3Gq.ltrans8.ltrans.o
+ .debug_info    0x0001bbf6     0x1a31 C:\cygwin64\tmp\cc1As3Gq.ltrans9.ltrans.o
+ .debug_info    0x0001d627     0x125a C:\cygwin64\tmp\cc1As3Gq.ltrans10.ltrans.o
+ .debug_info    0x0001e881      0xb2b C:\cygwin64\tmp\cc1As3Gq.ltrans11.ltrans.o
+ .debug_info    0x0001f3ac      0x29f C:\cygwin64\tmp\cc1As3Gq.ltrans12.ltrans.o
+
+.debug_abbrev   0x00000000     0x3ab1
+ .debug_abbrev  0x00000000      0x574 C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+ .debug_abbrev  0x00000574      0x581 C:\cygwin64\tmp\cc1As3Gq.ltrans1.ltrans.o
+ .debug_abbrev  0x00000af5      0x4ee C:\cygwin64\tmp\cc1As3Gq.ltrans2.ltrans.o
+ .debug_abbrev  0x00000fe3      0x3f8 C:\cygwin64\tmp\cc1As3Gq.ltrans3.ltrans.o
+ .debug_abbrev  0x000013db      0x63e C:\cygwin64\tmp\cc1As3Gq.ltrans4.ltrans.o
+ .debug_abbrev  0x00001a19      0x47f C:\cygwin64\tmp\cc1As3Gq.ltrans5.ltrans.o
+ .debug_abbrev  0x00001e98      0x4f7 C:\cygwin64\tmp\cc1As3Gq.ltrans6.ltrans.o
+ .debug_abbrev  0x0000238f      0x590 C:\cygwin64\tmp\cc1As3Gq.ltrans7.ltrans.o
+ .debug_abbrev  0x0000291f      0x5e4 C:\cygwin64\tmp\cc1As3Gq.ltrans8.ltrans.o
+ .debug_abbrev  0x00002f03      0x425 C:\cygwin64\tmp\cc1As3Gq.ltrans9.ltrans.o
+ .debug_abbrev  0x00003328      0x447 C:\cygwin64\tmp\cc1As3Gq.ltrans10.ltrans.o
+ .debug_abbrev  0x0000376f      0x22a C:\cygwin64\tmp\cc1As3Gq.ltrans11.ltrans.o
+ .debug_abbrev  0x00003999      0x118 C:\cygwin64\tmp\cc1As3Gq.ltrans12.ltrans.o
+
+.debug_loc      0x00000000     0xd014
+ .debug_loc     0x00000000     0x1978 C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+ .debug_loc     0x00001978     0x212d C:\cygwin64\tmp\cc1As3Gq.ltrans1.ltrans.o
+ .debug_loc     0x00003aa5     0x13e0 C:\cygwin64\tmp\cc1As3Gq.ltrans2.ltrans.o
+ .debug_loc     0x00004e85      0xfed C:\cygwin64\tmp\cc1As3Gq.ltrans3.ltrans.o
+ .debug_loc     0x00005e72     0x1cc9 C:\cygwin64\tmp\cc1As3Gq.ltrans4.ltrans.o
+ .debug_loc     0x00007b3b      0xd1d C:\cygwin64\tmp\cc1As3Gq.ltrans5.ltrans.o
+ .debug_loc     0x00008858     0x14f2 C:\cygwin64\tmp\cc1As3Gq.ltrans6.ltrans.o
+ .debug_loc     0x00009d4a      0xde9 C:\cygwin64\tmp\cc1As3Gq.ltrans7.ltrans.o
+ .debug_loc     0x0000ab33      0xf74 C:\cygwin64\tmp\cc1As3Gq.ltrans8.ltrans.o
+ .debug_loc     0x0000baa7      0xa50 C:\cygwin64\tmp\cc1As3Gq.ltrans9.ltrans.o
+ .debug_loc     0x0000c4f7      0xb0a C:\cygwin64\tmp\cc1As3Gq.ltrans10.ltrans.o
+ .debug_loc     0x0000d001       0x13 C:\cygwin64\tmp\cc1As3Gq.ltrans11.ltrans.o
+
+.debug_aranges  0x00000000      0x1a8
+ .debug_aranges
+                0x00000000       0x20 C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+ .debug_aranges
+                0x00000020       0x20 C:\cygwin64\tmp\cc1As3Gq.ltrans1.ltrans.o
+ .debug_aranges
+                0x00000040       0x20 C:\cygwin64\tmp\cc1As3Gq.ltrans2.ltrans.o
+ .debug_aranges
+                0x00000060       0x20 C:\cygwin64\tmp\cc1As3Gq.ltrans3.ltrans.o
+ .debug_aranges
+                0x00000080       0x28 C:\cygwin64\tmp\cc1As3Gq.ltrans4.ltrans.o
+ .debug_aranges
+                0x000000a8       0x20 C:\cygwin64\tmp\cc1As3Gq.ltrans5.ltrans.o
+ .debug_aranges
+                0x000000c8       0x20 C:\cygwin64\tmp\cc1As3Gq.ltrans6.ltrans.o
+ .debug_aranges
+                0x000000e8       0x20 C:\cygwin64\tmp\cc1As3Gq.ltrans7.ltrans.o
+ .debug_aranges
+                0x00000108       0x20 C:\cygwin64\tmp\cc1As3Gq.ltrans8.ltrans.o
+ .debug_aranges
+                0x00000128       0x20 C:\cygwin64\tmp\cc1As3Gq.ltrans9.ltrans.o
+ .debug_aranges
+                0x00000148       0x20 C:\cygwin64\tmp\cc1As3Gq.ltrans10.ltrans.o
+ .debug_aranges
+                0x00000168       0x20 C:\cygwin64\tmp\cc1As3Gq.ltrans11.ltrans.o
+ .debug_aranges
+                0x00000188       0x20 C:\cygwin64\tmp\cc1As3Gq.ltrans12.ltrans.o
+
+.debug_ranges   0x00000000     0x26c0
+ .debug_ranges  0x00000000      0x4d0 C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+ .debug_ranges  0x000004d0      0xa30 C:\cygwin64\tmp\cc1As3Gq.ltrans1.ltrans.o
+ .debug_ranges  0x00000f00      0x7a0 C:\cygwin64\tmp\cc1As3Gq.ltrans2.ltrans.o
+ .debug_ranges  0x000016a0      0x638 C:\cygwin64\tmp\cc1As3Gq.ltrans3.ltrans.o
+ .debug_ranges  0x00001cd8       0x90 C:\cygwin64\tmp\cc1As3Gq.ltrans4.ltrans.o
+ .debug_ranges  0x00001d68       0xa0 C:\cygwin64\tmp\cc1As3Gq.ltrans5.ltrans.o
+ .debug_ranges  0x00001e08      0x118 C:\cygwin64\tmp\cc1As3Gq.ltrans6.ltrans.o
+ .debug_ranges  0x00001f20      0x3a8 C:\cygwin64\tmp\cc1As3Gq.ltrans7.ltrans.o
+ .debug_ranges  0x000022c8      0x178 C:\cygwin64\tmp\cc1As3Gq.ltrans8.ltrans.o
+ .debug_ranges  0x00002440      0x118 C:\cygwin64\tmp\cc1As3Gq.ltrans9.ltrans.o
+ .debug_ranges  0x00002558      0x168 C:\cygwin64\tmp\cc1As3Gq.ltrans10.ltrans.o
+
+.debug_line     0x00000000     0x65bc
+ .debug_line    0x00000000      0xaf4 C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+ .debug_line    0x00000af4     0x10d0 C:\cygwin64\tmp\cc1As3Gq.ltrans1.ltrans.o
+ .debug_line    0x00001bc4      0xb10 C:\cygwin64\tmp\cc1As3Gq.ltrans2.ltrans.o
+ .debug_line    0x000026d4      0x850 C:\cygwin64\tmp\cc1As3Gq.ltrans3.ltrans.o
+ .debug_line    0x00002f24      0x95b C:\cygwin64\tmp\cc1As3Gq.ltrans4.ltrans.o
+ .debug_line    0x0000387f      0x713 C:\cygwin64\tmp\cc1As3Gq.ltrans5.ltrans.o
+ .debug_line    0x00003f92      0x7b2 C:\cygwin64\tmp\cc1As3Gq.ltrans6.ltrans.o
+ .debug_line    0x00004744      0x93b C:\cygwin64\tmp\cc1As3Gq.ltrans7.ltrans.o
+ .debug_line    0x0000507f      0x813 C:\cygwin64\tmp\cc1As3Gq.ltrans8.ltrans.o
+ .debug_line    0x00005892      0x51d C:\cygwin64\tmp\cc1As3Gq.ltrans9.ltrans.o
+ .debug_line    0x00005daf      0x483 C:\cygwin64\tmp\cc1As3Gq.ltrans10.ltrans.o
+ .debug_line    0x00006232      0x20a C:\cygwin64\tmp\cc1As3Gq.ltrans11.ltrans.o
+ .debug_line    0x0000643c      0x180 C:\cygwin64\tmp\cc1As3Gq.ltrans12.ltrans.o
+
+.debug_str      0x00000000     0x9042
+ .debug_str     0x00000000     0x2c9a C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+                               0x2dda (size before relaxing)
+ .debug_str     0x00002c9a     0x284b C:\cygwin64\tmp\cc1As3Gq.ltrans1.ltrans.o
+                               0x3589 (size before relaxing)
+ .debug_str     0x000054e5      0xa8b C:\cygwin64\tmp\cc1As3Gq.ltrans2.ltrans.o
+                               0x1889 (size before relaxing)
+ .debug_str     0x00005f70      0xaf5 C:\cygwin64\tmp\cc1As3Gq.ltrans3.ltrans.o
+                               0x15f7 (size before relaxing)
+ .debug_str     0x00006a65      0xc1e C:\cygwin64\tmp\cc1As3Gq.ltrans4.ltrans.o
+                               0x2059 (size before relaxing)
+ .debug_str     0x00007683      0x596 C:\cygwin64\tmp\cc1As3Gq.ltrans5.ltrans.o
+                               0x1236 (size before relaxing)
+ .debug_str     0x00007c19      0x3c3 C:\cygwin64\tmp\cc1As3Gq.ltrans6.ltrans.o
+                               0x1216 (size before relaxing)
+ .debug_str     0x00007fdc      0x58d C:\cygwin64\tmp\cc1As3Gq.ltrans7.ltrans.o
+                               0x1c0b (size before relaxing)
+ .debug_str     0x00008569      0x376 C:\cygwin64\tmp\cc1As3Gq.ltrans8.ltrans.o
+                               0x20bd (size before relaxing)
+ .debug_str     0x000088df      0x218 C:\cygwin64\tmp\cc1As3Gq.ltrans9.ltrans.o
+                                0xf36 (size before relaxing)
+ .debug_str     0x00008af7      0x335 C:\cygwin64\tmp\cc1As3Gq.ltrans10.ltrans.o
+                                0x8b3 (size before relaxing)
+ .debug_str     0x00008e2c      0x153 C:\cygwin64\tmp\cc1As3Gq.ltrans11.ltrans.o
+                                0x845 (size before relaxing)
+ .debug_str     0x00008f7f       0xc3 C:\cygwin64\tmp\cc1As3Gq.ltrans12.ltrans.o
+                                0x4eb (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 C:\cygwin64\tmp\cc1As3Gq.ltrans1.ltrans.o
+ .comment       0x00000000       0x71 C:\cygwin64\tmp\cc1As3Gq.ltrans2.ltrans.o
+ .comment       0x00000000       0x71 C:\cygwin64\tmp\cc1As3Gq.ltrans3.ltrans.o
+ .comment       0x00000000       0x71 C:\cygwin64\tmp\cc1As3Gq.ltrans4.ltrans.o
+ .comment       0x00000000       0x71 C:\cygwin64\tmp\cc1As3Gq.ltrans5.ltrans.o
+ .comment       0x00000000       0x71 C:\cygwin64\tmp\cc1As3Gq.ltrans6.ltrans.o
+ .comment       0x00000000       0x71 C:\cygwin64\tmp\cc1As3Gq.ltrans7.ltrans.o
+ .comment       0x00000000       0x71 C:\cygwin64\tmp\cc1As3Gq.ltrans8.ltrans.o
+ .comment       0x00000000       0x71 C:\cygwin64\tmp\cc1As3Gq.ltrans9.ltrans.o
+ .comment       0x00000000       0x71 C:\cygwin64\tmp\cc1As3Gq.ltrans10.ltrans.o
+ .comment       0x00000000       0x71 C:\cygwin64\tmp\cc1As3Gq.ltrans11.ltrans.o
+ .comment       0x00000000       0x71 C:\cygwin64\tmp\cc1As3Gq.ltrans12.ltrans.o
+
+.debug_frame    0x00000000     0x13e4
+ .debug_frame   0x00000000       0x2c C:\cygwin64\tmp\cc1As3Gq.ltrans0.ltrans.o
+ .debug_frame   0x0000002c       0x3c C:\cygwin64\tmp\cc1As3Gq.ltrans1.ltrans.o
+ .debug_frame   0x00000068       0x3c C:\cygwin64\tmp\cc1As3Gq.ltrans2.ltrans.o
+ .debug_frame   0x000000a4       0x38 C:\cygwin64\tmp\cc1As3Gq.ltrans3.ltrans.o
+ .debug_frame   0x000000dc      0x5c8 C:\cygwin64\tmp\cc1As3Gq.ltrans4.ltrans.o
+ .debug_frame   0x000006a4      0x138 C:\cygwin64\tmp\cc1As3Gq.ltrans5.ltrans.o
+ .debug_frame   0x000007dc      0x138 C:\cygwin64\tmp\cc1As3Gq.ltrans6.ltrans.o
+ .debug_frame   0x00000914      0x120 C:\cygwin64\tmp\cc1As3Gq.ltrans7.ltrans.o
+ .debug_frame   0x00000a34      0x1b4 C:\cygwin64\tmp\cc1As3Gq.ltrans8.ltrans.o
+ .debug_frame   0x00000be8       0xcc C:\cygwin64\tmp\cc1As3Gq.ltrans9.ltrans.o
+ .debug_frame   0x00000cb4      0x124 C:\cygwin64\tmp\cc1As3Gq.ltrans10.ltrans.o
+ .debug_frame   0x00000dd8       0xd0 C:\cygwin64\tmp\cc1As3Gq.ltrans11.ltrans.o
+ .debug_frame   0x00000ea8       0x68 C:\cygwin64\tmp\cc1As3Gq.ltrans12.ltrans.o
+ .debug_frame   0x00000f10       0x28 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_fixsfdi.o)
+ .debug_frame   0x00000f38       0x2c c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_fixunssfdi.o)
+ .debug_frame   0x00000f64       0x58 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(bpabi.o)
+ .debug_frame   0x00000fbc       0x34 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_divdi3.o)
+ .debug_frame   0x00000ff0       0x34 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_udivdi3.o)
+ .debug_frame   0x00001024       0x28 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000104c       0x20 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memset.o)
+ .debug_frame   0x0000106c       0x20 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-strchr.o)
+ .debug_frame   0x0000108c       0x20 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-strlen.o)
+ .debug_frame   0x000010ac       0x2c c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_lrint.o)
+ .debug_frame   0x000010d8       0x30 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_acos.o)
+ .debug_frame   0x00001108       0x20 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_atan2.o)
+ .debug_frame   0x00001128       0x34 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_pow.o)
+ .debug_frame   0x0000115c       0x30 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-wf_sqrt.o)
+ .debug_frame   0x0000118c       0x30 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_acos.o)
+ .debug_frame   0x000011bc       0x30 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_atan2.o)
+ .debug_frame   0x000011ec       0x38 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_pow.o)
+ .debug_frame   0x00001224       0x30 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-ef_sqrt.o)
+ .debug_frame   0x00001254       0x20 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_matherr.o)
+ .debug_frame   0x00001274       0x20 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_nan.o)
+ .debug_frame   0x00001294       0x34 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_rint.o)
+ .debug_frame   0x000012c8       0x30 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_atan.o)
+ .debug_frame   0x000012f8       0x20 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_fabs.o)
+ .debug_frame   0x00001318       0x20 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_finite.o)
+ .debug_frame   0x00001338       0x20 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_fpclassify.o)
+ .debug_frame   0x00001358       0x20 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_nan.o)
+ .debug_frame   0x00001378       0x2c c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_scalbn.o)
+ .debug_frame   0x000013a4       0x20 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-sf_copysign.o)
+ .debug_frame   0x000013c4       0x20 c:/users/chalpathi/desktop/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-errno.o)
